@@ -13,7 +13,7 @@ The project aims to create a Reddit clone application using HTML, CSS, JavaScrip
 
 ## Deployment
 
-https://reddit-clone-jishnu.vercel.app/
+https://reddit-app-aaditya.vercel.app
 
 ## Tech Stack
 
